@@ -1,0 +1,98 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "blocks/3dmodel/woodx64_1",
+		"particle": "blocks/3dmodel/woodx64_1",
+		"1_3": "blocks/3dmodel/gun_details_1"
+	},
+	"elements": [
+		{
+			"name": "bayonet",
+			"from": [7.75, 6.1, 19.4],
+			"to": [8.25, 7.4, 27],
+			"faces": {
+				"east": {"uv": [1.75, 13.25, 13.5, 15.25], "texture": "#1_3"},
+				"south": {"uv": [1.75, 13.25, 4.5, 15.25], "texture": "#1_3"},
+				"west": {"uv": [13.5, 13.25, 1.75, 15.25], "texture": "#1_3"},
+				"up": {"uv": [1.75, 14.75, 13.5, 15.25], "rotation": 90, "texture": "#1_3"},
+				"down": {"uv": [1.75, 14.75, 13.5, 15.25], "rotation": 90, "texture": "#1_3"}
+			}
+		},
+		{
+			"name": "bayonet",
+			"from": [7.85, 6.2, 26.8],
+			"to": [8.15, 7.3, 30.2],
+			"faces": {
+				"east": {"uv": [2.75, 13.5, 7, 15], "texture": "#1_3"},
+				"south": {"uv": [1.75, 13.25, 4.5, 15.25], "texture": "#1_3"},
+				"west": {"uv": [7, 13.5, 2.75, 15], "texture": "#1_3"},
+				"up": {"uv": [1.75, 14.75, 13.5, 15.25], "rotation": 90, "texture": "#1_3"},
+				"down": {"uv": [1.75, 14.75, 13.5, 15.25], "rotation": 90, "texture": "#1_3"}
+			}
+		},
+		{
+			"name": "bayonet",
+			"from": [7.49, 5.9, 18.9],
+			"to": [8.51, 8.42, 19.4],
+			"faces": {
+				"north": {"uv": [0.25, 11.25, 0.5, 11.75], "texture": "#1_3"},
+				"east": {"uv": [0, 9.25, 0.75, 12.5], "texture": "#1_3"},
+				"south": {"uv": [0, 11.25, 0.25, 11.75], "texture": "#1_3"},
+				"west": {"uv": [0.75, 9.25, 0, 12.5], "texture": "#1_3"},
+				"up": {"uv": [0, 9.25, 0.75, 10], "texture": "#1_3"},
+				"down": {"uv": [0, 9.25, 0.75, 10], "texture": "#1_3"}
+			}
+		},
+		{
+			"name": "bayonet",
+			"from": [7.75, 6.2, 15.5],
+			"to": [8.25, 7.2, 19.1],
+			"faces": {
+				"north": {"uv": [0, 0, 0.5, 1], "texture": "#0"},
+				"east": {"uv": [0, 0, 3.35, 1.5], "texture": "#0"},
+				"west": {"uv": [0, 0, 3.35, 1.5], "texture": "#0"},
+				"up": {"uv": [0, 0, 0.5, 2.6], "texture": "#0"},
+				"down": {"uv": [0, 0, 0.5, 2.6], "texture": "#0"}
+			}
+		},
+		{
+			"name": "bayonet",
+			"from": [7.95, 6.35, 28.95],
+			"to": [8.05, 7.15, 31.05],
+			"rotation": {"angle": 0, "axis": "y", "origin": [7.95, 8, 8]},
+			"faces": {
+				"east": {"uv": [0, 13.5, 4.5, 15], "texture": "#1_3"},
+				"south": {"uv": [1.75, 14.75, 13.5, 15.25], "rotation": 90, "texture": "#1_3"},
+				"west": {"uv": [4.5, 13.5, 0, 15], "texture": "#1_3"},
+				"up": {"uv": [1.75, 14.75, 13.5, 15.25], "rotation": 90, "texture": "#1_3"},
+				"down": {"uv": [1.75, 14.75, 13.5, 15.25], "rotation": 90, "texture": "#1_3"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [79, -180, 0],
+			"translation": [-2.25, 7.35, 0.75],
+			"scale": [0.8, 0.8, 0.65]
+		},
+		"firstperson_righthand": {
+			"rotation": [21, -180, -1],
+			"translation": [-1.25, 6.5, -5.75],
+			"scale": [1, 1, 0.85]
+		},
+		"ground": {
+			"translation": [0, 5, 0],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"gui": {
+			"rotation": [-90, 50, 100],
+			"translation": [-0.7, 2.25, 0],
+			"scale": [0.15, 0.95, 0.5]
+		},
+		"fixed": {
+			"rotation": [0, 90, 0],
+			"translation": [0.25, 0.5, -2.5],
+			"scale": [1.16, 1.16, 1.16]
+		}
+	}
+}

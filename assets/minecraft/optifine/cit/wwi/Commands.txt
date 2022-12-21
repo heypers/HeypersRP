@@ -1,0 +1,80 @@
+═════════════════════════════
+          Команды
+═════════════════════════════
+Копируйте и вставляйте эти команды
+в чате, чтобы получить оружие
+со специальными чарами.
+
+═════════════════════════════
+         Guns
+═════════════════════════════
+╔═══════════╗
+║Machineguns║
+╚═══════════╝
+•Lewis Gun with quick charge V:
+/give @p crossbow{display:{Name:"\"Lewis Gun\""},Enchantments:[{id:quick_charge,lvl:5}]} 1
+
+╔════════╗
+║Shotguns║
+╚════════╝
+•M1897 with multishot, quick charge I and sharpness V:
+/give @p minecraft:crossbow{display:{Name:"\"M1897\""},Enchantments:[{id:multishot,lvl:1},{id:quick_charge,lvl:1},{id:sharpness,lvl:5}]}
+
+•Sawed-off Shotgun with multishot, quick charge I and sharpness III:
+/give @p minecraft:crossbow{display:{Name:"\"Sawed-off Shotgun\""},Enchantments:[{id:multishot,lvl:1},{id:quick_charge,lvl:1},{id:sharpness,lvl:3}]}
+
+╔════════════════════╗
+║Rifles type crossbow║
+╚════════════════════╝
+•Gewehr with piercing IV, quick charge I and sharpness V:
+/give @p minecraft:crossbow{display:{Name:"\"Gewehr\""},Enchantments:[{id:piercing,lvl:4},{id:quick_charge,lvl:2},{id:sharpness,lvl:5}]}
+
+•Lee Enfield with piercing IV, quick charge I and sharpness V:
+/give @p minecraft:crossbow{display:{Name:"\"Lee Enfield\""},Enchantments:[{id:piercing,lvl:4},{id:quick_charge,lvl:2},{id:sharpness,lvl:5}]}
+
+╔═══════════════╗
+║Rifles Type bow║
+╚═══════════════╝
+•Gewehr with power II and sharpness V:
+/give @p minecraft:bow{display:{Name:"\"Gewehr\""},Enchantments:[{id:power,lvl:2},{id:sharpness,lvl:5}]}
+
+•Lee Enfield with power II and sharpness V:
+/give @p minecraft:bow{display:{Name:"\"Lee Enfield\""},Enchantments:[{id:power,lvl:2},{id:sharpness,lvl:5}]}
+
+•M1907 with power I and sharpness V:
+/give @p minecraft:bow{display:{Name:"\"M1907\""},Enchantments:[{id:power,lvl:1},{id:sharpness,lvl:5}]}
+
+╔═══════╗
+║Pistols║
+╚═══════╝
+•M1911 with power I, infinity and sharpness III:
+/give @p minecraft:bow{display:{Name:"\"M1911\""},Enchantments:[{id:power,lvl:1},{id:infinity,lvl:1},{id:sharpness,lvl:3}]}
+
+•Luger with power I, infinity and sharpness III:
+/give @p minecraft:bow{display:{Name:"\"Luger\""},Enchantments:[{id:power,lvl:1},{id:infinity,lvl:1},{id:sharpness,lvl:3}]}
+
+•C96 with power I, infinity and sharpness III:
+/give @p minecraft:bow{display:{Name:"\"C96\""},Enchantments:[{id:power,lvl:1},{id:infinity,lvl:1},{id:sharpness,lvl:3}]}
+
+•Flare Gun:
+/give @p minecraft:crossbow{display:{Name:"\"Flare Gun\""}}
+═════════════════════════════
+         Game mode
+═════════════════════════════
+It will help you improved 
+the gameplay
+
+•Don't lose your items when you die:
+/gamerule keepInventory true
+
+•Fire that does not go out or break blocks:
+/gamerule doFireTick false
+
+•Avoid spawn from hostiles mobs:
+/gamerule doMobSpawning false
+
+•Select spawn. When you die, you will appear in this place:
+/spawnpoint
+
+•Blocks not drop item:
+/gamerule doTileDrops false
