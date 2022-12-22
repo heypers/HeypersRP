@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"ambientocclusion": false,
 	"textures": {
-		"1": "block/3dmodel/weapon_2",
-		"particle": "block/3dmodel/weapon_2"
+		"1": "weapon/weapon_2",
+		"particle": "weapon/weapon_2"
 	},
 	"elements": [
 		{
