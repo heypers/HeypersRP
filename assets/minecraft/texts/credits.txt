@@ -11,7 +11,6 @@
 §7Сценаристы:
 §f          Mr_Fortuna
 §f          Helaney
-§f          Sherill
 §f          MetalBrine
 
 §7Художники:
