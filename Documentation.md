@@ -23,7 +23,8 @@ git clone https://github.com/mrf0rtuna4/HeypersRP.git
 2. Клонируем репозиторий к себе на компьютер из своего профиля:
 
 ```cd /var/projects
-git clone https://github.com/user/repo.git repo```
+git clone https://github.com/user/repo.git repo
+```
 
 3. Привязываем оригинальный репозиторий к своему.
 
@@ -31,13 +32,15 @@ git clone https://github.com/user/repo.git repo```
 
 ```cd repo
 git remote add upstream git://github.com/origin-name/repo.git
-git fetch upstream```
+git fetch upstream
+```
 Теперь мы можем полноценно работать с репозиторием, как вливать, так и забирать всё что в репо есть.
 Вот так можно обновится с оригинального репозитория:
 
 ```git checkout master
 git pull upstream master
-git merge upstream/master```
+git merge upstream/master
+```
 
 4. Вносим правки в код. Можно вносить изменения в файлы и коммитить их. Можно прямо в master, но, лучше для каждой фичи создавать отдельную ветвь:
 
@@ -45,7 +48,8 @@ git merge upstream/master```
 git checkout -b master_feature #создаём новую ветвь и переключаемся на неё
 git add filename
 git commit -m 'implement mega feature'
-git push origin master_feature  #загружает изменения из текущей локальной ветви в origin ветвь```
+git push origin master_feature  #загружает изменения из текущей локальной ветви в origin ветвь
+```
 
 5. Создаём ПР. Заходим на github на страницу оригинального репозитория. Создам Pull Request на основе созданной нами ветви. Обычно github уже видит созданную ветвь, которая не смерджена с мастером, и сам предлагает создать PR к ней.
 
