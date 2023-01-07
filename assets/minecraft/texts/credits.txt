@@ -12,11 +12,13 @@
 §f          Mr_Fortuna
 §f          Helaney
 §f          MPCP
-§f          MetalBrine
 
 §7Художники:
 §f          Veroni4cat
 §f          DaN
+
+§7Билдеры:
+§f          JustReaper
 
 §7Технический директор:
 §f          Mr_Fortuna
