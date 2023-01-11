@@ -4,7 +4,7 @@
 
 ## Скачивание
 
-[Скачать](https://github.com/mrf0rtuna4/HeypersRP/releases/tag/HRP.beta.2.19)
+[Скачать](https://github.com/mrf0rtuna4/HeypersRP/releases/tags)
 
 ## Альтернативное скачивание
 
