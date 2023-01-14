@@ -19,6 +19,7 @@
 
 §7Билдеры:
 §f          JustReaper
+§f          GOLDHAPPYBEAR
 
 §7Технический директор:
 §f          Mr_Fortuna
