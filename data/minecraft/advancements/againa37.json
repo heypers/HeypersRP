@@ -1,0 +1,26 @@
+{
+    "__comment": "Made with TheDestruc7i0n's advancements generator: https://advancements.thedestruc7i0n.ca",
+    "display": {
+        "title": {
+            "text": "Вы опять повторили это",
+            "color": "dark_red"
+        },
+        "description": {
+            "text": "И снова сектор A-37..",
+            "color": "green"
+        },
+        "icon": {
+            "item": "minecraft:orange_wool"
+        },
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": false
+    },
+    "criteria": {
+        "37f": {
+            "trigger": "minecraft:impossible"
+        }
+    },
+    "parent": "heypers:again"
+}

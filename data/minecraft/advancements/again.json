@@ -1,0 +1,26 @@
+{
+    "__comment": "Made with TheDestruc7i0n's advancements generator: https://advancements.thedestruc7i0n.ca",
+    "display": {
+        "title": {
+            "text": "Неужели опять?",
+            "color": "red"
+        },
+        "description": {
+            "text": "Тебе ещё рано это знать...",
+            "color": "dark_gray"
+        },
+        "icon": {
+            "item": "minecraft:sandstone"
+        },
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": false
+    },
+    "criteria": {
+        "64g": {
+            "trigger": "minecraft:impossible"
+        }
+    },
+    "parent": "heypers:this_true"
+}

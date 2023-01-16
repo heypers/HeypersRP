@@ -1,0 +1,27 @@
+{
+    "__comment": "Made with TheDestruc7i0n's advancements generator: https://advancements.thedestruc7i0n.ca",
+    "display": {
+        "title": {
+            "text": "Двойные проблемы",
+            "color": "dark_red",
+            "bold": false
+        },
+        "description": {
+            "text": "Столкнитесь с HL-555",
+            "color": "dark_aqua"
+        },
+        "icon": {
+            "item": "minecraft:crying_obsidian"
+        },
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": false
+    },
+    "criteria": {
+        "11": {
+            "trigger": "minecraft:impossible"
+        }
+    },
+    "parent": "heypers:collaps"
+}
