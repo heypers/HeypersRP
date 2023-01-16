@@ -1,0 +1,25 @@
+{
+    "__comment": "Made with TheDestruc7i0n's advancements generator: https://advancements.thedestruc7i0n.ca",
+    "display": {
+        "title": {
+            "text": "HL-9131",
+            "color": "yellow"
+        },
+        "description": {
+            "text": "Повстречайте самый опасный объект..."
+        },
+        "icon": {
+            "item": "minecraft:dead_bush"
+        },
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": false
+    },
+    "criteria": {
+        "9131": {
+            "trigger": "minecraft:impossible"
+        }
+    },
+    "parent": "heypers:go_go_go"
+}

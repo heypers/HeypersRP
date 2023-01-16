@@ -1,0 +1,26 @@
+{
+    "__comment": "Made with TheDestruc7i0n's advancements generator: https://advancements.thedestruc7i0n.ca",
+    "display": {
+        "title": {
+            "text": "Во имя правосудия!",
+            "color": "gold"
+        },
+        "description": {
+            "text": "Успешно восстановите условия содержания HL-015 \"Правосудная Ночь\"",
+            "color": "dark_aqua"
+        },
+        "icon": {
+            "item": "minecraft:respawn_anchor"
+        },
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": false
+    },
+    "criteria": {
+        "75gf": {
+            "trigger": "minecraft:impossible"
+        }
+    },
+    "parent": "heypers:slisite"
+}

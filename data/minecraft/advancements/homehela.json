@@ -1,0 +1,26 @@
+{
+    "__comment": "Made with TheDestruc7i0n's advancements generator: https://advancements.thedestruc7i0n.ca",
+    "display": {
+        "title": {
+            "text": "Чувствуй себя как дома путник",
+            "color": "gray"
+        },
+        "description": {
+            "text": "Найдите в городе дом Хеланея и попроситесь переночевать.",
+            "color": "gold"
+        },
+        "icon": {
+            "item": "minecraft:cooked_beef"
+        },
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": false
+    },
+    "criteria": {
+        "215": {
+            "trigger": "minecraft:impossible"
+        }
+    },
+    "parent": "heypers:sity"
+}

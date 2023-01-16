@@ -1,0 +1,25 @@
+{
+    "__comment": "Made with TheDestruc7i0n's advancements generator: https://advancements.thedestruc7i0n.ca",
+    "display": {
+        "title": {
+            "text": "Да здравствует моё творение...",
+            "color": "green"
+        },
+        "description": {
+            "text": "Включите СБ, именуемую как Project Fordger 1.0.1"
+        },
+        "icon": {
+            "item": "minecraft:lever"
+        },
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": false
+    },
+    "criteria": {
+        "wpf": {
+            "trigger": "minecraft:impossible"
+        }
+    },
+    "parent": "heypers:hlc1"
+}

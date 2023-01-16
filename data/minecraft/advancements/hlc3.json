@@ -1,0 +1,28 @@
+{
+    "__comment": "Made with TheDestruc7i0n's advancements generator: https://advancements.thedestruc7i0n.ca",
+    "display": {
+        "title": {
+            "text": "HLC-3",
+            "color": "dark_purple",
+            "bold": true,
+            "underlined": true
+        },
+        "description": {
+            "text": "Бесконечность не предел",
+            "color": "dark_aqua"
+        },
+        "icon": {
+            "item": "minecraft:lime_shulker_box"
+        },
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": false
+    },
+    "criteria": {
+        "17": {
+            "trigger": "minecraft:impossible"
+        }
+    },
+    "parent": "heypers:root"
+}

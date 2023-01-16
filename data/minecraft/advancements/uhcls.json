@@ -1,0 +1,26 @@
+{
+    "__comment": "Made with TheDestruc7i0n's advancements generator: https://advancements.thedestruc7i0n.ca",
+    "display": {
+        "title": {
+            "text": "Очнулся в кошмаре...",
+            "color": "blue"
+        },
+        "description": {
+            "text": "По приказу Администратора вы, отныне, Сотрудник Класса H.",
+            "color": "blue"
+        },
+        "icon": {
+            "item": "minecraft:note_block"
+        },
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": false
+    },
+    "criteria": {
+        "gfw": {
+            "trigger": "minecraft:impossible"
+        }
+    },
+    "parent": "heypers:safeprior"
+}

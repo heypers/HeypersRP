@@ -1,0 +1,26 @@
+{
+    "__comment": "Made with TheDestruc7i0n's advancements generator: https://advancements.thedestruc7i0n.ca",
+    "display": {
+        "title": {
+            "text": "Рука помощи",
+            "color": "dark_green"
+        },
+        "description": {
+            "text": "Помогите напарнику по команде, когда он находится на грани смерти.",
+            "color": "aqua"
+        },
+        "icon": {
+            "item": "minecraft:pink_wool"
+        },
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": false
+    },
+    "criteria": {
+        "512": {
+            "trigger": "minecraft:impossible"
+        }
+    },
+    "parent": "heypers:wtl"
+}

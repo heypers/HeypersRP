@@ -1,0 +1,26 @@
+{
+    "__comment": "Made with TheDestruc7i0n's advancements generator: https://advancements.thedestruc7i0n.ca",
+    "display": {
+        "title": {
+            "text": "Ты это слышишь?",
+            "color": "red"
+        },
+        "description": {
+            "text": "Массаж мозга",
+            "color": "dark_purple"
+        },
+        "icon": {
+            "item": "minecraft:stone"
+        },
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": false
+    },
+    "criteria": {
+        "s5gf": {
+            "trigger": "minecraft:impossible"
+        }
+    },
+    "parent": "heypers:againa37"
+}

@@ -1,0 +1,27 @@
+{
+    "__comment": "Made with TheDestruc7i0n's advancements generator: https://advancements.thedestruc7i0n.ca",
+    "display": {
+        "title": {
+            "text": "В первый раз, да?",
+            "color": "red",
+            "bold": true
+        },
+        "description": {
+            "text": "Нарушьте все возможные условия содержания объектов, находящихся в Секторе O-92.",
+            "color": "dark_aqua"
+        },
+        "icon": {
+            "item": "minecraft:redstone"
+        },
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": false
+    },
+    "criteria": {
+        "u87i": {
+            "trigger": "minecraft:impossible"
+        }
+    },
+    "parent": "heypers:slisite"
+}

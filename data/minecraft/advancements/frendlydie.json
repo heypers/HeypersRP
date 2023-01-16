@@ -1,0 +1,26 @@
+{
+    "__comment": "Made with TheDestruc7i0n's advancements generator: https://advancements.thedestruc7i0n.ca",
+    "display": {
+        "title": {
+            "text": "Эти ребята не с нами",
+            "color": "gray"
+        },
+        "description": {
+            "text": "Отправьте лифт на верхние этажи лаборатории вместе с HL-677 и своими напарниками, заставив их умереть.",
+            "color": "aqua"
+        },
+        "icon": {
+            "item": "minecraft:spruce_planks"
+        },
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": false
+    },
+    "criteria": {
+        "6122": {
+            "trigger": "minecraft:impossible"
+        }
+    },
+    "parent": "heypers:scd"
+}

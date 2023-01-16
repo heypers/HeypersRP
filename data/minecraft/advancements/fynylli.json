@@ -1,0 +1,30 @@
+{
+    "__comment": "Made with TheDestruc7i0n's advancements generator: https://advancements.thedestruc7i0n.ca",
+    "display": {
+        "title": {
+            "text": "Финал...",
+            "color": "dark_red",
+            "bold": true,
+            "strikethrough": true
+        },
+        "description": {
+            "text": "Потеряйте контроль над зоной",
+            "color": "dark_red",
+            "underlined": false,
+            "strikethrough": true
+        },
+        "icon": {
+            "item": "minecraft:soul_torch"
+        },
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": false
+    },
+    "criteria": {
+        "fs23": {
+            "trigger": "minecraft:impossible"
+        }
+    },
+    "parent": "heypers:hlc2"
+}

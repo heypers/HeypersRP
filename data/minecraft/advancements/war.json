@@ -1,0 +1,27 @@
+{
+    "__comment": "Made with TheDestruc7i0n's advancements generator: https://advancements.thedestruc7i0n.ca",
+    "display": {
+        "title": {
+            "text": "Мы не сдаёмся",
+            "color": "dark_green",
+            "bold": true
+        },
+        "description": {
+            "text": "Узнайте решение Администрации",
+            "color": "dark_aqua"
+        },
+        "icon": {
+            "item": "minecraft:spectral_arrow"
+        },
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": false
+    },
+    "criteria": {
+        "16": {
+            "trigger": "minecraft:impossible"
+        }
+    },
+    "parent": "heypers:nonono"
+}
