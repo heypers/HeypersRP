@@ -4,16 +4,12 @@
 
 ## Головы
 
-<https://github.com/mrf0rtuna4/HeypersRP/blob/158370af53354439536725e2c5301a98c7cd3f12/assets/minecraft/optifine/cit/hats/README.md>
-
-<https://github.com/mrf0rtuna4/HeypersRP/blob/158370af53354439536725e2c5301a98c7cd3f12/assets/minecraft/optifine/cit/hats/HATS.txt>
+[Переминования для декора и веселья](https://github.com/mrf0rtuna4/HeypersRP/blob/158370af53354439536725e2c5301a98c7cd3f12/assets/minecraft/optifine/cit/hats/HATS.txt)
 
 ## Оружие, броня и другое
 
-<https://github.com/mrf0rtuna4/HeypersRP/blob/158370af53354439536725e2c5301a98c7cd3f12/assets/minecraft/optifine/cit/wwi/Guns-List.txt#L16>
+[Список старомодного оружия](https://github.com/mrf0rtuna4/HeypersRP/blob/master/assets/minecraft/optifine/cit/wwi/Guns%20List.txt)
 
-<https://github.com/mrf0rtuna4/HeypersRP/blob/158370af53354439536725e2c5301a98c7cd3f12/assets/minecraft/optifine/cit/wwi/Uniforms-list.txt#L21>
+[Список старомодной брони](https://github.com/mrf0rtuna4/HeypersRP/blob/master/assets/minecraft/optifine/cit/wwi/Uniforms%20list.txt)
 
-<https://github.com/mrf0rtuna4/HeypersRP/blob/158370af53354439536725e2c5301a98c7cd3f12/assets/minecraft/optifine/cit/wwi/Commands.txt>
-
-<https://github.com/mrf0rtuna4/HeypersRP/blob/158370af53354439536725e2c5301a98c7cd3f12/other_resourepacks/KSEPSP+(переминования-и-дополнения-от-этого-рп).pdf>
+[Оружия/броня/предметы/танки разного времени](https://github.com/mrf0rtuna4/HeypersRP/blob/master/other_resourepacks/KSEPSP%2B(переминования%20и%20дополнения%20от%20этого%20рп).pdf)
