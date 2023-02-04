@@ -1,21 +1,14 @@
-
-{
+  {
   "saw.music.hello.zepp": {
     "sounds": [
       "saw_16"
     ]
-    }
-  },
-
-  {
+    },
   "ambient.hrl.begining": {
     "sounds":[
       "hrl_1"
     ]
-  }
-},
-
-{
+  },
   "saw.ambient.1": {
     "sounds":[
       "saw_01"
