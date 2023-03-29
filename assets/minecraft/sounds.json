@@ -4,14 +4,34 @@
       "saw_16"
     ]
     },
-  "ambient.hrl.begining": {
+
+  "hrl.begining": {
     "sounds":[
       "hrl_1"
     ]
   },
+
   "saw.ambient.1": {
     "sounds":[
       "saw_01"
     ]
+  },
+
+  "hrl.doors.sound" : {
+    "sounds" : [
+      "hrl_escape"
+    ]
+  },
+
+    "hrl.scream.sound" : {
+      "sounds" : [
+        "hrl_screamer_1"
+      ]
+    },
+
+    "hrl.bad.ending" : {
+      "sounds" : [
+        "hrl_wrong_screamer"
+      ]
+    }
   }
-}
