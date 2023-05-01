@@ -1,5 +1,5 @@
   {
-  "saw.music.hello.zepp": {
+  "hrl.saw.music.hello.zepp": {
     "sounds": [
       "saw_16"
     ]
@@ -11,7 +11,7 @@
     ]
   },
 
-  "saw.ambient.1": {
+  "hrl.saw.ambient": {
     "sounds":[
       "saw_01"
     ]

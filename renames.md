@@ -11,5 +11,3 @@
 [Список старомодного оружия](https://github.com/mrf0rtuna4/HeypersRP/blob/master/assets/minecraft/optifine/cit/wwi/Guns%20List.txt)
 
 [Список старомодной брони](https://github.com/mrf0rtuna4/HeypersRP/blob/master/assets/minecraft/optifine/cit/wwi/Uniforms%20list.txt)
-
-[Оружия/броня/предметы/танки разного времени](https://github.com/mrf0rtuna4/HeypersRP/blob/master/other_resourepacks/KSEPSP%2B(переминования%20и%20дополнения%20от%20этого%20рп).pdf)
