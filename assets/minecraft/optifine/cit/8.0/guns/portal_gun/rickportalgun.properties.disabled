@@ -1,0 +1,10 @@
+type=item
+matchItems=bow
+model.bow_standby=rickportalgun
+model.bow_pulling_0=rickportalgun_pulling
+model.bow_pulling_1=rickportalgun_pulling
+model.bow_pulling_2=rickportalgun_pulling
+nbt.display.Name=iregex:(\u041f\u043e\u0440\u0442\u0430\u043b\u044c\u043d\u0430\u044f \u043f\u0443\u0448\u043a\u0430 \u0420\u0438\u043a\u0430|Rick's Portal Gun)
+# 618: Мне не нравится вид этого оружия поэтому я решил его отключить. Что бы вернуть его уберите .disabled в названии файла
+# 3301: Зачем тогда ты вообще его добавлял?
+# 618: Ну, оно есть в СП РП

@@ -1,0 +1,73 @@
+{
+	"credit": "Made with Blockbench",
+	"texture_size": [16, 32],
+	"textures": {
+		"0": "./kostil",
+		"particle": "./kostil"
+	},
+	"elements": [
+		{
+			"from": [7.5, 0, 9],
+			"to": [8.5, 20, 10],
+			"rotation": {"angle": 0, "axis": "y", "origin": [15, 8, 17]},
+			"faces": {
+				"north": {"uv": [15, 0, 16, 10], "texture": "#0"},
+				"east": {"uv": [14, 0, 15, 10], "texture": "#0"},
+				"south": {"uv": [15, 0, 16, 10], "texture": "#0"},
+				"west": {"uv": [14, 0, 15, 10], "texture": "#0"},
+				"up": {"uv": [14, 0, 15, 0.5], "texture": "#0"},
+				"down": {"uv": [14, 9.5, 15, 10], "texture": "#0"}
+			}
+		},
+		{
+			"from": [7, 20, 7],
+			"to": [9, 22, 12],
+			"rotation": {"angle": 0, "axis": "y", "origin": [15, 21, 17]},
+			"faces": {
+				"north": {"uv": [16, 10, 14, 11], "rotation": 180, "texture": "#0"},
+				"east": {"uv": [9, 10, 14, 11], "texture": "#0"},
+				"south": {"uv": [14, 10, 16, 11], "rotation": 270, "texture": "#0"},
+				"west": {"uv": [9, 10, 14, 11], "texture": "#0"},
+				"up": {"uv": [14, 11, 16, 13.5], "texture": "#0"},
+				"down": {"uv": [16, 11, 14, 13.5], "rotation": 180, "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [68.5, 0, 0],
+			"translation": [-2, -3.75, -4.5]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [68.5, 0, 0],
+			"translation": [-2, -3.75, -4.5]
+		},
+		"firstperson_righthand": {
+			"rotation": [9.5, -6.5, 5.5],
+			"translation": [-2, -10, -1.5]
+		},
+		"firstperson_lefthand": {
+			"rotation": [9.5, -6.5, 5.5],
+			"translation": [-2, -10, -1.5]
+		},
+		"ground": {
+			"rotation": [-180, 0, -90],
+			"translation": [-3.75, -1.5, 1.75]
+		},
+		"gui": {
+			"rotation": [27, -160, 35],
+			"translation": [-0.25, -2.75, 0],
+			"scale": [0.77, 0.77, 0.77]
+		},
+		"head": {
+			"rotation": [0, 0, -90],
+			"translation": [-4.5, 7.25, -2.5],
+			"scale": [1.66, 1.66, 1.66]
+		},
+		"fixed": {
+			"rotation": [0, 90, 0],
+			"translation": [-3, -6, 1],
+			"scale": [2, 2, 2]
+		}
+	}
+}

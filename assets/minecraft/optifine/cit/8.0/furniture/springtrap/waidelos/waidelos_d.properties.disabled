@@ -1,0 +1,5 @@
+type=item
+matchItems=white_wool
+model=waidelos_d
+nbt.display.Name=iregex:(\u041f\u043e\u0434\u0443\u0448\u043a\u0430 \u0412\u0430\u0439|Comrade Wai)
+# Уберите .disabled в названии файла, чтобы включить предмет
