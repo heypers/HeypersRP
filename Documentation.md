@@ -1,12 +1,16 @@
 # Документация
 
-Ресурпак эксклюзивно разработан для сервера в майнкрафт.. но без дополнительных рп он не полон.
+Как - что и куда - только тут
+
+- [Скачивание](https://github.com/mrf0rtuna4/HeypersRP/edit/master/Documentation.md#скачивание-и-установка)
+  - [Первый метод](https://github.com/mrf0rtuna4/HeypersRP/edit/master/Documentation.md#первый-метод)
+  - [Второй метод](https://github.com/mrf0rtuna4/HeypersRP/edit/master/Documentation.md#второй-метод)
 
 ## Скачивание и установка
 
-[Скачать тут](https://github.com/mrf0rtuna4/HeypersRP/releases)
+Скачать тут - https://github.com/mrf0rtuna4/HeypersRP/releases
 
-После скачивания распаковываем(или перемещаем архив) по пути .minecraft/resoursepacks
+После скачивания перемещаем архив по пути .minecraft/resoursepacks
 
 После ставим ресурспак **выше** стандартного
 
