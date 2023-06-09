@@ -5,6 +5,7 @@
 - [Скачивание](https://github.com/mrf0rtuna4/HeypersRP/edit/master/Documentation.md#скачивание-и-установка)
   - [Первый метод](https://github.com/mrf0rtuna4/HeypersRP/edit/master/Documentation.md#первый-метод)
   - [Второй метод](https://github.com/mrf0rtuna4/HeypersRP/edit/master/Documentation.md#второй-метод)
+- [Переминования](https://github.com/mrf0rtuna4/HeypersRP/edit/master/Documentation.md#переминования)
 
 ## Скачивание и установка
 
@@ -62,3 +63,18 @@ git clone https://github.com/mrf0rtuna4/HeypersRP.git
 ```
 
 Способ автоматически скачает последнюю версию(даже больше если после релиза есть коммиты)
+
+# Переминования
+
+Одна из важнейших частей ресурпаков, пользуйтесь.
+
+## Головы
+
+[Список голов(тыквы)](https://github.com/mrf0rtuna4/HeypersRP/blob/master/assets/minecraft/optifine/cit/hats/HATS.txt)
+
+## Оружие, броня и другое
+
+[Список старомодного оружия](https://github.com/mrf0rtuna4/HeypersRP/blob/master/assets/minecraft/optifine/cit/wwi/Guns%20List.txt)
+
+[Список старомодной брони](https://github.com/mrf0rtuna4/HeypersRP/blob/master/assets/minecraft/optifine/cit/wwi/Uniforms%20list.txt)
+
