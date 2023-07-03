@@ -23,12 +23,23 @@
     ]
   },
 
-    "hrl.scream.sound" : {
-      "sounds" : [
-        "hrl_screamer_1"
-      ]
-    },
+   "hrl.warhead": {
+     "sounds":[
+       "hrl_warhead"
+     ]
+   },
 
+   "hrl.scream.sound" : {
+     "sounds" : [
+       "hrl_screamer_1"
+     ]
+   },
+
+   "hrl.fun_phonk": {
+     "sounds":[
+       "hrl_phonk"
+     ]
+   },
     "hrl.bad.ending" : {
       "sounds" : [
         "hrl_wrong_screamer"
