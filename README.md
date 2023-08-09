@@ -34,4 +34,4 @@
 
 ## Используемые ресурсы:
 
-KSEPSP, WW1, SomeWariblesHats
+[KSEPSP](https://vk.com/ksepsp), WW1, SomeVariblesHats
