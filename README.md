@@ -1,16 +1,37 @@
-# HeypersRP
+# HeypersRP - Ресурс Пак для Minecraft
 
-Представляем вам наш ресурс пак который подгружает наших крутых обьектов из лаборатории.
+Добро пожаловать в репозиторий ресурс пака HeypersRP! Наш ресурс пак добавляет в игру крутые объекты из нашей лаборатории, чтобы сделать ваш игровой опыт на сервере более интересным.
 
-![image](https://user-images.githubusercontent.com/108610775/212485802-7541be6a-8d26-417b-ae3f-2d6eceb2dfad.png)
+![Пример1](https://github.com/mrf0rtuna4/HeypersRP/assets/108610775/60e99f15-0494-4cce-b874-0ec0bffb9ebf)
 
-Для нормальной работы ресурспака __обязательно__ требуется [скачать оптифайн](https://www.optifine.net/downloads).
-Если вы используете Fabric - вам потребуется [OptiFabric](https://minecraft.curseforge.com/projects/optifabric) и [Optifine](https://www.optifine.net/downloads)
+![Пример2](https://github.com/mrf0rtuna4/HeypersRP/assets/108610775/765487b4-c2fa-4717-8587-d9ebde634868)
 
-Также если ресурспак все еще не подгружеат кастомные модели убедитесь что в настройках у вас включены кастомные предметы/мобы (настройки/графика/качество):
+![Пример3](https://github.com/mrf0rtuna4/HeypersRP/assets/108610775/e30772e3-57c7-434f-be59-6d2f95a0d27a)
 
-![image](https://user-images.githubusercontent.com/108610775/212486218-3e8d7413-22e9-4d4a-81fd-76997ffe98a6.png)
+![Пример4](https://github.com/mrf0rtuna4/HeypersRP/assets/108610775/823d1c6c-bfb5-4d3f-a39a-1d78ca6c0d5c)
 
-Если Ваш ресурспак все еще не работает свяжитесь со мной в дискорд Mr_Fortuna#6037(mr_fortuna) или создайте issue
+## Инструкции по установке
 
-|| [Скачать ресурспак](https://github.com/mrf0rtuna4/HeypersRP/tags) || [Документация](https://github.com/mrf0rtuna4/HeypersRP/blob/master/Documentation.md) ||
+Для корректной работы HeypersRP вам __обязательно__ потребуется установить [OptiFine](https://www.optifine.net/downloads). 
+
+Если вы используете Fabric, вам также потребуется [OptiFabric](https://minecraft.curseforge.com/projects/optifabric).
+
+## Как включить кастомные модели
+
+1. Откройте настройки Minecraft.
+2. Перейдите в раздел "Графика".
+3. В разделе "Качество" убедитесь, что опция "Кастомные предметы/мобы" включена.
+
+![Настройки](https://user-images.githubusercontent.com/108610775/212486218-3e8d7413-22e9-4d4a-81fd-76997ffe98a6.png)
+
+## Поддержка и обратная связь
+
+Если у вас возникли проблемы с установкой или работой HeypersRP, пожалуйста, свяжитесь со мной в Discord: `@mr_fortuna` или создайте issue в этом репозитории.
+
+## Ссылки
+
+| [Скачать HeypersRP](https://github.com/mrf0rtuna4/HeypersRP/tags) | [Документация](https://github.com/mrf0rtuna4/HeypersRP/blob/master/Documentation.md) |
+
+## Используемые ресурсы:
+
+[KSEPSP](https://vk.com/ksepsp), WW1, SomeVariblesHats

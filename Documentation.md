@@ -1,80 +1,46 @@
-# Документация
-
-Как - что и куда - только тут
-
-- [Скачивание](https://github.com/mrf0rtuna4/HeypersRP/edit/master/Documentation.md#скачивание-и-установка)
-  - [Первый метод](https://github.com/mrf0rtuna4/HeypersRP/edit/master/Documentation.md#первый-метод)
-  - [Второй метод](https://github.com/mrf0rtuna4/HeypersRP/edit/master/Documentation.md#второй-метод)
-- [Переминования](https://github.com/mrf0rtuna4/HeypersRP/edit/master/Documentation.md#переминования)
+# Документация по HeypersRP
 
 ## Скачивание и установка
 
-Скачать тут - https://github.com/mrf0rtuna4/HeypersRP/releases
+### Основные методы установки
 
-После скачивания перемещаем архив по пути .minecraft/resoursepacks
+1. [Скачайте ресурс пак](https://github.com/mrf0rtuna4/HeypersRP/releases) из репозитория.
+2. Переместите скачанный архив в папку `.minecraft/resourcepacks`.
+3. Запустите Minecraft.
+4. В настройках игры выберите HeypersRP в разделе "Пакеты ресурсов".
 
-После ставим ресурспак **выше** стандартного
+### Пошаговое скачивание
 
-## Пошаговое скачивание
+1. Откройте [репозиторий HeypersRP](https://github.com/mrf0rtuna4/HeypersRP/releases).
+2. Скачайте последний релиз (отмеченный тегами, например, `v2.0`).
+3. Переместите скачанный архив в папку `.minecraft/resourcepacks`.
+4. Запустите Minecraft.
+5. В настройках игры выберите HeypersRP в разделе "Пакеты ресурсов".
 
-- Частый вопрос неопытных юзеров - а что  делать? Обьясняем тут.
+### Альтернативное скачивание
 
-Открываем https://github.com/mrf0rtuna4/HeypersRP/releases и находим последний релиз, он помечен примерно так:
+1. Откройте командную строку (Win+R, введите `cmd`).
+2. Введите в командной строке `%appdata%\.minecraft`.
+3. Перейдите в папку `.minecraft/resourcepacks`.
+4. Перекиньте туда скачаный архив, или - выполните команду: `git clone https://github.com/mrf0rtuna4/HeypersRP.git`.
+5. Запустите Minecraft.
+6. В настройках игры выберите HeypersRP в разделе "Пакеты ресурсов".
 
-![image](https://github.com/mrf0rtuna4/HeypersRP/assets/108610775/628affe4-e5ee-4c51-8ab9-68c3c54e7416)
+## Переминования
 
-А иногда, когда в рп есть еще баги но грядет релиз, **рекомендую скачивать именно последние версии для актуальности и погружения**:
+### Головы
 
-![image](https://github.com/mrf0rtuna4/HeypersRP/assets/108610775/ee7927a4-1643-46a8-8df4-fdc9cbb6d1ba)
+- [Список голов (тыквы)](https://github.com/mrf0rtuna4/HeypersRP/blob/master/assets/minecraft/optifine/cit/hats/HATS.txt)
 
-После скачивания последней версии Вам нужно либо - воспользоватся одним из методов:
+### Оружие, броня и другое
 
-### Первый метод 
+- [Список старомодного оружия](https://github.com/mrf0rtuna4/HeypersRP/blob/master/assets/minecraft/optifine/cit/wwi/Guns%20List.txt)
+- [Список старомодной брони](https://github.com/mrf0rtuna4/HeypersRP/blob/master/assets/minecraft/optifine/cit/wwi/Uniforms%20list.txt)
 
-- Открытие папки в лаунчере
-В любом лаунчере есть кнопка для открытия пути `./minecraft`, так например она выглядит в TL:
+## Поддержка и обратная связь
 
-![image](https://github.com/mrf0rtuna4/HeypersRP/assets/108610775/bf6a9bf1-8cd9-4ed3-adae-9dd307f49f2b)
+Если у вас возникли вопросы, проблемы или вы хотите поделиться своим опытом, не стесняйтесь связаться со мной в Discord: `@mr_fortuna`, или создайте [issue](https://github.com/mrf0rtuna4/HeypersRP/issues) в этом репозитории.
 
-После нажатия на кнопку находим папку:
-![image](https://github.com/mrf0rtuna4/HeypersRP/assets/108610775/1c4e63d4-d121-4ae2-b559-e3a3fa176c48)
+## Лицензия
 
-### Второй метод
-
-Важное Примечание: __Второй пункт соответствует действительности если вы устанавливали Майнкрафт в стандартную директорию(не настраивая пути)__
-
-1. Жмем на клавиатуре клавиши `Win+R`
-2. Пишем туда: `%appdata%/.minecraft/resourcepacks`
-3. Перекидываем туда архив **не распаковывая** 
-4. Заходим в майнкрафт
-
---Если Вы в игре--
-1. Делаем тоже самое что и выше.
-2. Открываем настройки
-3. Жмем кнопку `Пакеты ресурсов` 
-4. Из открытой папки в проводнике(по пути `.minecraft/resourcepacks`) перетаскиваем ресурспак в окно слева
-
-## Альтернативное скачивание
-
-Итак для того чтобы скачать ресурспак по крутому вам нужно октыть консоль(Win+R,cmd) и пишем
-
-```cd .minecraft/resourcepacks
-git clone https://github.com/mrf0rtuna4/HeypersRP.git
-```
-
-Способ автоматически скачает последнюю версию(даже больше если после релиза есть коммиты)
-
-# Переминования
-
-Одна из важнейших частей ресурпаков, пользуйтесь.
-
-## Головы
-
-[Список голов(тыквы)](https://github.com/mrf0rtuna4/HeypersRP/blob/master/assets/minecraft/optifine/cit/hats/HATS.txt)
-
-## Оружие, броня и другое
-
-[Список старомодного оружия](https://github.com/mrf0rtuna4/HeypersRP/blob/master/assets/minecraft/optifine/cit/wwi/Guns%20List.txt)
-
-[Список старомодной брони](https://github.com/mrf0rtuna4/HeypersRP/blob/master/assets/minecraft/optifine/cit/wwi/Uniforms%20list.txt)
-
+HeypersRP распространяется под [лицензией](https://github.com/mrf0rtuna4/HeypersRP/blob/master/LICENSE), пожалуйста, ознакомьтесь с ней перед использованием ресурс пака.
