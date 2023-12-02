@@ -44,5 +44,25 @@
       "sounds" : [
         "hrl_wrong_screamer"
       ]
-    }
+    },
+    "hrl.effect_volume": {
+       "sounds": [
+	 "effekt_narastaniya"
+	]
+    },
+    "hrl.prizrak" : {
+      "sounds" : [
+        "prizrak-ischezaet"
+      ]
+    },
+    "hrl.signal" : {
+      "sounds" : [
+        "signal-ujasov"
+      ]
+    },
+    "hrl.strash" : {
+      "sounds" : [
+        "super-strashnyiy"
+      ]
+    },
   }
