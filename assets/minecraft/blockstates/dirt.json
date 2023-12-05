@@ -1,0 +1,55 @@
+{
+  "variants": {
+    "": [
+      {"model": "block/dirt"}
+      {
+        "model": "block/variated/dirt/0"
+      },
+      {
+        "model": "block/variated/dirt/1"
+      },
+      {
+        "model": "block/variated/dirt/2"
+      },
+      {
+        "model": "block/variated/dirt/3"
+      },
+      {
+        "model": "block/variated/dirt/4"
+      },
+      {
+        "model": "block/variated/dirt/5"
+      },
+      {
+        "model": "block/variated/dirt/6"
+      },
+      {
+        "model": "block/variated/dirt/7"
+      },
+      {
+        "model": "block/variated/dirt/8"
+      },
+      {
+        "model": "block/variated/dirt/9"
+      },
+      {
+        "model": "block/variated/dirt/10"
+      },
+      {
+        "model": "block/variated/dirt/11"
+      },
+      {
+        "model": "block/variated/dirt/12"
+      },
+      {
+        "model": "block/variated/dirt/13"
+      },
+      {
+        "model": "block/variated/dirt/14"
+      },
+      {
+        "model": "block/variated/dirt/15"
+      }
+    ]
+  }
+}
