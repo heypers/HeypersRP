@@ -5,10 +5,13 @@ The __Heypers Team__ is not responsible for the manipulation of the resource pac
 
 | Minecraft Version | Supported          |
 | ------- | ------------------ |
-| 1.16.x   | :white_check_mark: |
-| 1.15.x   | :white_check_mark: |
+| 1.20.x   | :white_check_mark: |
+| 1.19.x   | :white_check_mark: |
+| 1.18.x   | :white_check_mark: |
+| 1.17.x   | :x: |
+| 1.16.x   | :x: |
+| 1.15.x   | :x:                |
 | < 1.14.x   | :x:                |
-| > 1.16.5   | :x:                |
 
 
 ## Reporting a Vulnerability
