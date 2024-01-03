@@ -1,0 +1,19 @@
+{
+	"__comment": "Designed by ShadowCat54392 with Cubik Studio - https://cubik.studio",
+	"textures": {
+		"particle": "block/birch_planks",
+		"wood": "block/birch_planks",
+		"back": "block/item_frame"
+	},
+	"elements": [ 	 
+		{
+			"__comment": "Element",
+			"from": [ 1, 1, 15.875 ],
+			"to": [ 15, 15, 16.874 ],
+			"faces": {
+				"north": { "uv": [ 1, 1, 15, 15 ], "texture": "#back" },
+				"south": { "uv": [ 1, 1, 15, 15 ], "texture": "#back" }
+			}
+		}
+	]
+}

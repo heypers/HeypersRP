@@ -1,0 +1,6 @@
+{
+  "parent": "item/apple",
+  "textures": {
+    "layer0": "./caramel_apple"
+  }
+}
