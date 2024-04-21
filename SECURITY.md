@@ -1,19 +1,18 @@
 # Security Policy
-The __Heypers Team__ is not responsible for the manipulation of the resource pack. By downloading the resource pack you agree to be responsible for your files and actions with them. We do not store any data about you.
-## Supported Versions
+Команда __Heypers Team__ не несет ответственности за манипуляции с ресурсным пакетом. Скачивая пакет ресурсов, вы соглашаетесь нести ответственность за свои файлы и действия с ними. Мы не храним никаких данных о вас.
+## Поддерживаемые версии
 
 
-| Minecraft Version | Supported          |
+| Версия Майнкрафта | Поддержка  |
 | ------- | ------------------ |
 | 1.20.x   | :white_check_mark: |
-| 1.19.x   | :white_check_mark: |
-| 1.18.x   | :white_check_mark: |
+| 1.19.x   | :x: |
+| 1.18.x   | :x: |
 | 1.17.x   | :x: |
 | 1.16.x   | :x: |
-| 1.15.x   | :x:                |
-| < 1.14.x   | :x:                |
+| 1.15.x   | :x: |
+| < 1.14.x   | :x: |
 
+## Сообщение об уязвимости
 
-## Reporting a Vulnerability
-
-If you find a vulnerability or a bug in the resource pack, please let us know on [our discord server](http://heypers-lab.ml/) or [my developer server](https://discord.gg/xppzwKWyvC)
+Если вы обнаружили уязвимость или ошибку в ресурсном пакете, пожалуйста, сообщите нам об этом на [нашем сервере discord](https://discord.gg/kBHD4qtdZ3)
