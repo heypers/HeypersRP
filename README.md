@@ -30,7 +30,7 @@
 
 ## Ссылки
 
-| [Скачать HeypersRP](https://github.com/mrf0rtuna4/HeypersRP/tags) | [Документация](https://github.com/mrf0rtuna4/HeypersRP/blob/master/Documentation.md) |
+| [Скачать HeypersRP](https://github.com/mrf0rtuna4/HeypersRP/tags](https://modrinth.com/resourcepack/heypersrp) | [Документация](https://github.com/mrf0rtuna4/HeypersRP/blob/master/Documentation.md) |
 
 ## Используемые ресурсы:
 
