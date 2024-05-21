@@ -35,14 +35,33 @@
      ]
    },
 
-   "hrl.fun_phonk": {
-     "sounds":[
-       "hrl_phonk"
-     ]
-   },
     "hrl.bad.ending" : {
       "sounds" : [
         "hrl_wrong_screamer"
       ]
+    },
+    
+    "hrl.teleport.sound": {
+      "sounds": [
+        "hrl_teleport"
+      ]
+    },
+
+    "hrl.portal.open": {
+      "sounds": [
+        "hrl_portal_open"
+      ]
+    },
+
+    "hrl.monster.screams": {
+      "sounds": [
+        "hrl_monster"
+      ]
+    },
+
+    "hrl.summon": {
+      "sounds": [
+        "hrl_summon"
+        ]
     }
   }
