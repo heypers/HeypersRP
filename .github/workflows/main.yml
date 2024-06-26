@@ -1,9 +1,6 @@
 name: Generate Localized Readme  # The name of your action
 
 on:
-  schedule:  # Scheduled start
-    - cron: "0 */24 * * *"  # Every 24 hours
-
   workflow_dispatch:  # Manual start
   push:  # Run when committing to a branch
     branches:
