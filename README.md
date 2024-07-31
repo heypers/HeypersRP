@@ -14,7 +14,7 @@
 
 Для корректной работы HeypersRP вам __обязательно__ потребуется установить [OptiFine](https://www.optifine.net/downloads). 
 
-Если вы используете Fabric, вам также потребуется [OptiFabric](https://minecraft.curseforge.com/projects/optifabric).
+Если вы используете Fabric, вам необходимо посетить сайт [Optifine Alternatives](https://optifine.alternatives.lambdaurora.dev/) и там установить поддержку CIT + CEM
 
 ## Как включить кастомные модели
 
@@ -30,7 +30,7 @@
 
 ## Ссылки
 
-| [Скачать HeypersRP](https://github.com/mrf0rtuna4/HeypersRP/tags](https://modrinth.com/resourcepack/heypersrp) | [Документация](https://github.com/mrf0rtuna4/HeypersRP/blob/master/Documentation.md) |
+| [Скачать HeypersRP](https://modrinth.com/resourcepack/heypersrp) | [Документация](https://github.com/mrf0rtuna4/HeypersRP/blob/master/Documentation.md) |
 
 ## Используемые ресурсы:
 
