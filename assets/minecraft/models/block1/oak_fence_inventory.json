@@ -1,0 +1,9 @@
+{
+	"parent": "block/generic_fence_inventory",
+	"ambientocclusion": false,
+	"textures": {
+		"0": "block/stripped_oak_log",
+		"particle": "block/oak_planks",
+		"8_0": "block/oak_planks"
+	}
+}

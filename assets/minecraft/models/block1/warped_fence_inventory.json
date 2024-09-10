@@ -1,0 +1,9 @@
+{
+	"parent": "block/generic_fence_inventory",
+	"ambientocclusion": false,
+	"textures": {
+		"0": "block/stripped_warped_stem",
+		"particle": "block/warped_planks",
+		"8_0": "block/warped_planks"
+	}
+}

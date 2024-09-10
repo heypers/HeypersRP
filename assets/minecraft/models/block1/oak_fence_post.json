@@ -1,0 +1,7 @@
+{
+	"parent": "block/generic_fence_post",
+	"textures": {
+		"0": "block/stripped_oak_log",
+		"particle": "block/stripped_oak_log"
+	}
+}

@@ -1,0 +1,7 @@
+{
+	"parent": "block/generic_fence_post",
+	"textures": {
+		"0": "block/stripped_warped_stem",
+		"particle": "block/stripped_warped_stem"
+	}
+}
