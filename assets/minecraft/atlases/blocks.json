@@ -1,0 +1,33 @@
+{
+    "sources": [
+        {
+            "type": "directory",
+            "source": "entity/boat",
+            "prefix": "entity/boat/"
+        },
+        {
+            "type": "directory",
+            "source": "entity/signs",
+            "prefix": "entity/signs/"
+        },
+        {
+            "type": "directory",
+            "source": "entity/chest",
+            "prefix": "entity/chest/"
+        },
+        {
+            "type": "directory",
+            "source": "entity/chest_boat",
+            "prefix": "entity/chest_boat/"
+        },
+        {
+            "type": "directory",
+            "source": "entity/end_crystal",
+            "prefix": "entity/end_crystal/"
+        },
+        {
+            "type": "single",
+            "resource": "entity/minecart"
+        }
+    ]
+}

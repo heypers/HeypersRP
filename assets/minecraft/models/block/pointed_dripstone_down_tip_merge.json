@@ -2,6 +2,7 @@
 	"credit": "Created by Stridey",
 	"textures": {
 		"2": "block/pointed_dripstone_dark",
+		"3": "block/pointed_dripstone_light",
 		"particle": "block/pointed_dripstone_tip_merge",
 		"cross": "block/pointed_dripstone_tip_merge"
 	},
@@ -14,6 +15,7 @@
 				"east": {"uv": [5, 0, 11, 8], "texture": "#cross"},
 				"south": {"uv": [5, 0, 11, 8], "texture": "#cross"},
 				"west": {"uv": [5, 0, 11, 8], "texture": "#cross"},
+				"up": {"uv": [5, 5, 11, 11], "texture": "#3", "cullface": "up"},
 				"down": {"uv": [5, 5, 11, 11], "texture": "#2"}
 			}
 		},

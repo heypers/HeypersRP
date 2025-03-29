@@ -1,8 +1,0 @@
-{
-	"parent": "block/generic_fence_gate",
-	"textures": {
-		"1": "block/stripped_warped_stem",
-		"2": "block/warped_planks",
-		"particle": "block/warped_planks"
-	}
-}

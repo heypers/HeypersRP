@@ -30,7 +30,9 @@
 
 ## Используемые ресурсы:
 
-- Мы здесь заявляем об исключении претензий перед официальными авторами данных продуктов, если вы недовольны тем как мы используем ваши работы обратитесь на почту heypers.team@gmail.com
+- Мы здесь заявляем об исключении претензий перед официальными авторами внешних продуктов, если вы недовольны тем как мы используем ваши работы обратитесь на почту heypers.team@gmail.com
 
-1. [World War I Texture Pack](https://www.curseforge.com/minecraft/texture-packs/world-war-i-resource-pack) by Zacho
-2. [SomeVariblesHats](https://www.curseforge.com/minecraft/texture-packs/somies-variable-hats) by Somi_e
+Credits:
+- Vanilla Tweaks: https://vanillatweaks.net/
+- mrf0rtuna4 (mr_fortuna): https://mrf0rtuna4.github.io/
+- 

@@ -14,7 +14,8 @@
 				"north": {"uv": [3, 8, 13, 16], "texture": "#cross"},
 				"east": {"uv": [3, 8, 13, 16], "texture": "#cross"},
 				"south": {"uv": [3, 8, 13, 16], "texture": "#cross"},
-				"west": {"uv": [3, 8, 13, 16], "texture": "#cross"}
+				"west": {"uv": [3, 8, 13, 16], "texture": "#cross"},
+				"down": {"uv": [4, 4, 12, 12], "texture": "#1", "cullface": "up"}
 			}
 		},
 		{
