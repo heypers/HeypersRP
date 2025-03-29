@@ -24,14 +24,13 @@
 
 ![Настройки](https://user-images.githubusercontent.com/108610775/212486218-3e8d7413-22e9-4d4a-81fd-76997ffe98a6.png)
 
-## Поддержка и обратная связь
-
-Если у вас возникли проблемы с установкой или работой HeypersRP, пожалуйста, свяжитесь со мной в Discord: `@mr_fortuna` или создайте issue в этом репозитории.
-
 ## Ссылки
 
 | [Скачать HeypersRP](https://modrinth.com/resourcepack/heypersrp) | [Документация](https://github.com/mrf0rtuna4/HeypersRP/blob/master/Documentation.md) |
 
 ## Используемые ресурсы:
 
-[KSEPSP](https://vk.com/ksepsp), WW1, SomeVariblesHats
+- Мы здесь заявляем об исключении претензий перед официальными авторами данных продуктов, если вы недовольны тем как мы используем ваши работы обратитесь на почту heypers.team@gmail.com
+
+1. [World War I Texture Pack](https://www.curseforge.com/minecraft/texture-packs/world-war-i-resource-pack) by Zacho
+2. [SomeVariblesHats](https://www.curseforge.com/minecraft/texture-packs/somies-variable-hats) by Somi_e
