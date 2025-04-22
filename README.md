@@ -33,6 +33,6 @@
 - Мы здесь заявляем об исключении претензий перед официальными авторами внешних продуктов, если вы недовольны тем как мы используем ваши работы обратитесь на почту heypers.team@gmail.com
 
 Credits:
-- Vanilla Tweaks: https://vanillatweaks.net/
 - mrf0rtuna4 (mr_fortuna): https://mrf0rtuna4.github.io/
-- 
+- Vanilla Tweaks: https://vanillatweaks.net/
+- nejdanchik: https://t.me/nejdanchiknews | https://www.youtube.com/c/Nejdanchik
