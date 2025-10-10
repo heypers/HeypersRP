@@ -1,38 +1,61 @@
-# HeypersRP - Ресурс Пак для Minecraft
+# ☢ HeypersRP - Ресурс-пак для Minecraft
 
-Добро пожаловать в репозиторий ресурс пака HeypersRP! Наш ресурс пак добавляет в игру крутые объекты из нашей лаборатории, чтобы сделать ваш игровой опыт на сервере более интересным.
+*Эксклюзивно для проекта HRL*
 
-![Пример1](https://github.com/mrf0rtuna4/HeypersRP/assets/108610775/60e99f15-0494-4cce-b874-0ec0bffb9ebf)
+Ресурс-пак HeypersRP добавляет в игру уникальные модели, текстуры и объекты, разработанные в рамках лаборатории **Heypers**, делая ваш игровой опыт глубже, атмосфернее и технологичнее.
 
-![Пример2](https://github.com/mrf0rtuna4/HeypersRP/assets/108610775/765487b4-c2fa-4717-8587-d9ebde634868)
+![Пример](https://github.com/mrf0rtuna4/HeypersRP/assets/108610775/60e99f15-0494-4cce-b874-0ec0bffb9ebf)
 
-![Пример3](https://github.com/mrf0rtuna4/HeypersRP/assets/108610775/e30772e3-57c7-434f-be59-6d2f95a0d27a)
+---
 
-![Пример4](https://github.com/mrf0rtuna4/HeypersRP/assets/108610775/823d1c6c-bfb5-4d3f-a39a-1d78ca6c0d5c)
+## 🚀 Установка
 
-## Инструкции по установке
+Для корректной работы необходимо:
 
-Для корректной работы HeypersRP вам __обязательно__ потребуется установить [OptiFine](https://www.optifine.net/downloads). 
+* **OptiFine** → [скачать](https://www.optifine.net/downloads)
+  или
+* **Fabric + CIT Resewn + Entity Model Features (EMF)** → [OptiFine Alternatives](https://optifine.alternatives.lambdaurora.dev/)
 
-Если вы используете Fabric, вам необходимо посетить сайт [Optifine Alternatives](https://optifine.alternatives.lambdaurora.dev/) и там установить поддержку CIT + CEM
+### 🔧 Включение кастомных моделей:
 
-## Как включить кастомные модели
+1. Настройки → Графика → Качество
+2. Активируйте:
 
-1. Откройте настройки Minecraft.
-2. Перейдите в раздел "Графика".
-3. В разделе "Качество" убедитесь, что опция "Кастомные предметы/мобы" включена.
+   * **Custom Items (CIT)**
+   * **Custom Entity Models (CEM)**
 
 ![Настройки](https://user-images.githubusercontent.com/108610775/212486218-3e8d7413-22e9-4d4a-81fd-76997ffe98a6.png)
 
-## Ссылки
+---
 
-| [Скачать HeypersRP](https://modrinth.com/resourcepack/heypersrp) | [Документация](https://github.com/mrf0rtuna4/HeypersRP/blob/master/Documentation.md) |
+## 📦 Ссылки
 
-## Используемые ресурсы:
+| 📥 [Скачать с Modrinth](https://modrinth.com/resourcepack/heypersrp) | 📘 [Документация](https://github.com/mrf0rtuna4/HeypersRP/blob/v3/Documentation.md) |
 
-- Мы здесь заявляем об исключении претензий перед официальными авторами внешних продуктов, если вы недовольны тем как мы используем ваши работы обратитесь на почту heypers.team@gmail.com
+---
 
-Credits:
-- mrf0rtuna4 (mr_fortuna): https://mrf0rtuna4.github.io/
-- Vanilla Tweaks: https://vanillatweaks.net/
-- nejdanchik: https://t.me/nejdanchiknews | https://www.youtube.com/c/Nejdanchik
+## 🧠 Обновления в v3
+
+* Новый визуальный стиль предметов HRL
+* Поддержка **overlay-механик**
+* Актуализация CIT-моделей
+* Улучшенная совместимость с Fabric
+* Новые ambient-текстуры и спецэффекты
+
+---
+
+## 📜 Credits
+
+**Основная разработка:**
+
+* [mrf0rtuna4 (mr_fortuna)](https://fortuna.heypers.org)
+
+**Благодарности (для V.2.x):**
+
+* [Vanilla Tweaks](https://vanillatweaks.net/)
+* [nejdanchik](https://t.me/nejdanchiknews)
+
+---
+
+🧩 По вопросам авторских прав и использования:
+**✉️ [heypers.team@gmail.com](mailto:heypers.team@gmail.com)**
